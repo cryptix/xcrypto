@@ -30,7 +30,7 @@ import (
 	"io"
 	"strconv"
 
-	"golang.org/x/crypto/ed25519/internal/edwards25519"
+	"golang.org/x/crypto/ed25519/edwards25519"
 )
 
 const (
