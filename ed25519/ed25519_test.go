@@ -16,7 +16,7 @@ import (
 	"testing"
 
 	"golang.org/x/crypto/ed25519"
-	"golang.org/x/crypto/ed25519/internal/edwards25519"
+	"golang.org/x/crypto/ed25519/edwards25519"
 )
 
 type zeroReader struct{}
